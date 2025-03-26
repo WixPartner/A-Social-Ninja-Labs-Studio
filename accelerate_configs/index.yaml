@@ -2,11 +2,6 @@ compute_environment: LOCAL_MACHINE
 debug: false
 distributed_type: 'NO'
 downcast_bf16: 'no'
-dynamo_config:
-  dynamo_backend: INDUCTOR
-  dynamo_mode: max-autotune
-  dynamo_use_dynamic: true
-  dynamo_use_fullgraph: false
 enable_cpu_affinity: false
 gpu_ids: '3'
 machine_rank: 0
