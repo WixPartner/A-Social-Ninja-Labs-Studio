@@ -1,4 +1,4 @@
-# A Social Ninja Labs Studio 🤖🧫🔬🥼🧪🥽🎬🎙️🎧🎤™
+# A Social Ninja Labs Studio 🤖🌊🐉⛩️🥷🏻🧫🔬🥼🧪🥽🎬🎙️🎧🎤™
 
 A Social Ninja Labs Studio and Finetrainers is a work-in-progress library to support (accessible) training of diffusion models. Our first priority is to support LoRA training for all popular video models in [Diffusers](https://github.com/huggingface/diffusers), and eventually other methods like controlnets, control-loras, distillation, etc.
 
